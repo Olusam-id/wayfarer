@@ -1,2 +1,2 @@
 # wayfarer
-Public bus transportation bookin server
+Public bus transportation booking server
